@@ -1,0 +1,26 @@
+Greetings earthling,
+
+This is the final test of PyText3 for this semester!
+
+I have accomplished most of the things my checklist so I am prepared 
+to hand in this project as is if I have to. The only things on my checklist 
+that I haven't done are the advanced features that I will add if I keep
+working on this project next year. This includes stuff like syntax 
+highlighting, tabs, and code autocomplete.
+
+Here is a list of all of the current features of PyText3
+    - Editable text field
+    - Cut, Copy, Paste, Select All, Undo, Redo
+    - Menu Bar
+    - File Management
+    - Line Numbers
+    - Themes & Fonts
+    - Updating Status Bar
+    - Find & Replace
+    - Language Switching
+
+PyText3 is now a fully funcional basic text editor. I am very happy with
+the way that it has turned out and am excited to keep adding features and
+performance improvements in my next semester of computers!
+
+Kaleb R.
