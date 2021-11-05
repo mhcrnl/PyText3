@@ -1,6 +1,6 @@
 # PyText3
 
-PyText3 is a code editor that was written entirely in Python 3 and includes support for C++, HTML, Java, JavaScript, Python, Swift, and plain text files.
+PyText3 is a text editor that was written entirely in Python 3 and includes support for C++, HTML, Java, JavaScript, Python, Swift, and plain text files.
 
 ## Features
 
